@@ -1,2 +1,2 @@
 # Calculator
-# Calculator
+A basic calculator that performs fundamental operation on two numbers and always returns integer value....
